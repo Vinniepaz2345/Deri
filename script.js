@@ -1,6 +1,6 @@
 const APP_ID = "70074"; // Replace with your Deriv App ID
 const API_URL = "wss://ws.deriv.com/websockets/v3";
-const REDIRECT_URL = "https://yourwebsite.com/callback"; // Replace with your redirect URL
+const REDIRECT_URL = "https://vinniepaz2345.github.io/Deri/"; // Replace with your redirect URL
 
 let loginBtn = document.getElementById("loginBtn");
 let logoutBtn = document.getElementById("logoutBtn");
